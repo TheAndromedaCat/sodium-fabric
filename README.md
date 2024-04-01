@@ -1,3 +1,5 @@
+Warning: No clue if this works I couldn't get it to build
+
 <img src="src/main/resources/assets/sodium/icon.png" width="128">
 
 # Sodium (for Fabric)
